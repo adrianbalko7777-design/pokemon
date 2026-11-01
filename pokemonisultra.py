@@ -22,7 +22,7 @@ def attack(P1: int, P2: int, army: str) -> str:
     army1 = temp[:P1]
     army2 = temp[P1:]
 
-    # print(attackfield)
+    # print(attackfield) a
     # print(attackfield["Fire"]["Psychic"])
 
     #Výpočet útočnej sily prvého tímu na druhý tím
